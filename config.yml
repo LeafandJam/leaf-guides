@@ -1,0 +1,33 @@
+baseURL: ""
+languageCode: en-us
+title: Leaf Guides
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Welcome to Leaf Guides"
+    Content: "Here you will find lots of useful guides to installing all things for ~free"
+  socialIcons:
+    - name: github
+      url: 'https://www.github.com/leafandJam'
+
+
+  ShowbreadCrumbs: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowShareButtons: true
+
+
+menu:
+  main:
+    - identifier: Categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: Archives
+      name: Archives
+      url: /archives/
+      weight: 20
+
+
+
