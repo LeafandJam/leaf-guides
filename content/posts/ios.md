@@ -18,7 +18,7 @@ Scroll down to the quiz button shown below:
 Click it then scroll down to the quiz and fill in the answers as show here:
 ![Answers](/posts/answers.png)
 
-## Generate A ID
+## Generate 'A ID'
 Submit the quiz. The way this works is that when you submit the quiz it gives you a number from 0-11. You need a 1 to get the ID which means you may have to do this a few times.
 
 Refresh the page each time you try to reset the quiz.
