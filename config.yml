@@ -1,4 +1,4 @@
-baseURL: "https://precious-praline-c0216f.netlify.app/"
+baseURL: "https://leafguides.xyz/"
 languageCode: en-us
 title: Leaf Guides
 theme: PaperMod
@@ -6,7 +6,8 @@ theme: PaperMod
 params:
   homeInfoParams:
     Title: "Welcome to Leaf Guides"
-    Content: "Here you will find lots of useful guides to installing all things for ~free"
+    Content: "Here you will find lots of useful guides to installing all things for ~free \n 
+    (everything here is stricly for educational purposes only. What you do with this information is up to you)"
   socialIcons:
     - name: github
       url: 'https://www.github.com/leafandJam'
@@ -14,7 +15,7 @@ params:
 
   ShowbreadCrumbs: true
   ShowReadingTime: true
-  ShowPostNavLinks: true
+  ShowPostNavLinks: false
   ShowShareButtons: false
   ShowToc: true
   ShowCodeCopyButtons: true
