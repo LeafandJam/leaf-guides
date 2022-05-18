@@ -17,6 +17,8 @@ params:
   ShowPostNavLinks: true
   ShowShareButtons: false
 
+  defaultTheme: dark
+
 
 menu:
   main:
