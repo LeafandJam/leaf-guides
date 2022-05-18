@@ -17,6 +17,8 @@ params:
   ShowPostNavLinks: true
   ShowShareButtons: false
   ShowToc: true
+  ShowCodeCopyButtons: true
+  hideFooter: false
 
   defaultTheme: dark
 
