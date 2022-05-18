@@ -8,6 +8,7 @@ categories: ["movie/tv"]
 
 The ultimate streaming solution. You get EVERYTHING ever, up to 4k, for ~$4 a month.
 
+
 ## Real Debrid
 
 Real Debrid is what is used to provide media.
