@@ -8,7 +8,7 @@ categories: ["ios"]
 This method will get you paid apps and games for FREE. It works by signing you into an 'A ID' which has made purchases in the past. You simply download what you want and then log back into your 'A ID'.
 
 ## Preparation
-Before you begin, this is possible on your phone however it is much easier/faster on a computer. The main benefit of the computer is an adblock. [Ublock Origin](https://ublockorigin.com/) will always be recomended.
+Before you begin, this is possible on your phone however it is much easier/faster on a computer. The main benefit of the computer is an adblock. [Ublock Origin](https://ublockorigin.com/) will always be recommended.
 
 ## The Quiz
 Visit [this Website](https://www.akwebguide.com/search/label/New%20System?&max-results=5) and by looking at the pictures, find the app or game you want. When found, click on the post with that image.
@@ -23,11 +23,11 @@ Submit the quiz. The way this works is that when you submit the quiz it gives yo
 
 Refresh the page each time you try to reset the quiz.
 
-Once you get 1, it will display _"Scroll down to get ID"_. sign out of your ID __through the appstore__ (Not anywhere else). Login __through the appstore__ with the new login information and then it will show a security pop up.
+Once you get 1, it will display _"Scroll down to get ID"_. Sign out of your ID __through the appstore__ (not anywhere else). Login __through the appstore__ with the new login information and then it will show a security pop up.
 
 Click ```other options``` then ```Do not upgrade```
 
 ## Downloading
-Click on ```Puchases``` and then go through until you find your app/game. Download it then logout of the ID and back into yours.
+Click on ```Purchases``` and then go through until you find your app/game. Download it then logout of the ID and back into yours.
 
 You will have the app/game forever however to update it you will need to repeat the steps.
