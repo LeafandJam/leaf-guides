@@ -2,6 +2,7 @@
 title: "Youtube-dlp"
 date: 2022-05-30T15:46:37+09:30
 draft: false
+categories: ["YouTube"]
 ---
 Youtube-dlp is an updated fork of Youtube-dl with many extra features. (Youtube-dl has become inactive)
 
