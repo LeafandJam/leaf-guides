@@ -8,6 +8,8 @@ categories: ["movie/tv"]
 
 The ultimate streaming solution. You get EVERYTHING ever, up to 4k, for ~$4 a month.
 
+Real Debrid is what costs money. It is cheaper than any streaming service while also giving you access to everything! It is ideal as you don't need a vpn unlike with torrenting. It torrents movies for you and puts them on their servers which is where you stream from. This allows super fast streaming without torrent activity on your end!
+
 
 ## Real Debrid
 
