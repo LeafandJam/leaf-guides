@@ -29,3 +29,5 @@ To activate windows type ```1``` into the screen to run the activation.
 
 Done!
 
+{{< chat windows >}}
+

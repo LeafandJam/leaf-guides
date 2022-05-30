@@ -59,3 +59,4 @@ The following guide was written by [Krimsen](https://www.reddit.com/user/krimsen
 
 ```yt-dlp "https://www.youtube.com/watch?v=dQw4w9WgXcQ"```
 
+{{< chat yt-dlp >}}

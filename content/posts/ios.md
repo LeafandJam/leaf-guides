@@ -31,3 +31,5 @@ Click ```other options``` then ```Do not upgrade```
 Click on ```Purchases``` and then go through until you find your app/game. Download it then logout of the ID and back into yours.
 
 You will have the app/game forever however to update it you will need to repeat the steps.
+
+{{< chat ios >}}
