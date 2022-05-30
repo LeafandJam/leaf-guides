@@ -15,7 +15,8 @@ Real Debrid is what costs money. It is cheaper than any streaming service while 
 
 Real Debrid is what is used to provide media.
 
-Go to [Real-Debrid](https://real-debrid.com) and click ```Sign Up```. Make an account and then buy the service.
+Go to [Real-Debrid](http://real-debrid.com/?id=7783244) and click ```Sign Up```. Make an account and then buy the service. 
+(This link includes my referral code which helps me out!)
 
 ## Stremio
 
