@@ -35,3 +35,5 @@ Get the api from the link provided and then paste it in click ```Save``` and you
 ## Done
 
 Search for your media and look for streams with RD at the front. These are provided from Real-Debrid. If one stream isn't quite right, try another!
+
+{{< chat stremio >}}
