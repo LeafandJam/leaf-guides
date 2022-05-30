@@ -5,12 +5,12 @@ theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: "Welcome to Leaf Guides<span style="color:blue">some *blue* text</span> " 
+    Title: "Welcome to Leaf Guides" 
     Content: "Here you will find lots of useful guides to installing all things for ~free \n 
     (everything here is stricly for educational purposes only. What you do with this information is up to you)"
   socialIcons:
-    - name: github
-      url: 'https://www.github.com/leafandJam'
+ #   - name: github
+ #     url: 'https://www.github.com/leafandJam'
 
 
   ShowbreadCrumbs: true
