@@ -5,7 +5,7 @@ theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: "Welcome to Leaf {{< colour "#56bd2d" >}} Guides" 
+    Title: "Welcome to Leaf Guides" 
     Content: "Here you will find lots of useful guides to installing all things for ~free \n 
     (everything here is stricly for educational purposes only. What you do with this information is up to you)"
   socialIcons:
