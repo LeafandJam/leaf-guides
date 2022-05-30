@@ -1,10 +1,10 @@
 ---
-title: "Youtube-dlp"
+title: "yt-dlp"
 date: 2022-05-30T15:46:37+09:30
 draft: false
 categories: ["YouTube"]
 ---
-Youtube-dlp is an updated fork of Youtube-dl with many extra features. (Youtube-dl has become inactive)
+yt-dlp is an updated fork of yt-dl with many extra features. (yt-dl has become inactive)
 
 This app allows you to download youtube videos to .mp3 and .mp4 easily and quickly.
 
