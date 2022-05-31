@@ -12,6 +12,10 @@ For CFW on Nintendo devices, thorough guides have been written and are regularly
 [SwitchWay](https://switchway.net)
 # 3DS CFW
 [3ds.hacks](https://3ds.hacks.guide/)
+# Wii U CFW
+[wiiu.hacks](https://wiiu.hacks.guide/#/)
+# DSi CFW
+[Dsi.cfw](https://dsi.cfw.guide/)
 
 
 
