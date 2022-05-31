@@ -7,6 +7,10 @@ categories: ["YouTube"]
 yt-dlp is an updated fork of yt-dl with many extra features. (yt-dl has become inactive)
 
 This app allows you to download youtube videos to .mp3 and .mp4 easily and quickly.
+# GUI version
+A simple GUI version of yt-dlp is available [here](https://stacher.io/). The install is easy and the app is easy to use!
+
+If you still want to use the command line version then read further!
 
 The following guide was written by [Krimsen](https://www.reddit.com/user/krimsen/) on reddit. It is the easiest and most fool-proof way to install Youtube-dlp. This is a cleaned up copy however the original guide can be found [here](https://www.reddit.com/r/youtubedl/comments/qzqzaz/can_someone_please_post_a_simple_guide_on_making/hlon6k5/).
 
