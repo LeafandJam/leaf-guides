@@ -13,7 +13,7 @@ For this guide you will need:
 It's also recomended to have an adblock such as
 - [uBlock Origin](https://ublockorigin.com/)
 
-# Windows
+# ⊞ Windows
 This will be using the Monkrus method.
 
 A video guide is available [here](https://youtu.be/CC5E3uyedao). (I did not create this video guide)
@@ -41,7 +41,7 @@ Mount the file by double clicking it and run the file named ```autoplay```.
 
 This will bring up the installation for your Adobe apps!
 
-# MacOS
+#  macOS
 This method is for the M1 chip Macs. This is the easiest method I have tried.
 
 Go to [Cmacked](https://cmacked.com) and search for the desired Adobe app. 
