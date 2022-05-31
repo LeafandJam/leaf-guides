@@ -25,7 +25,7 @@ Run the file ```MAS_1.5_AIO_CRC32_21D20776.cmd``` (or a similar named file if th
 If you need a Windows pro key for MAS to activate then use this one: ```W269N-WFGWX-YVC9B-4J6C9-T83GX```
 
 
-To activate windows type ```1``` into the screen to run the activation.
+To activate Windows, type ```1``` into the screen to run the activation.
 
 Done!
 
