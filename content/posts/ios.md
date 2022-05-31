@@ -32,4 +32,7 @@ Click on ```Purchases``` and then go through until you find your app/game. Downl
 
 You will have the app/game forever however to update it you will need to repeat the steps.
 
+
+# Comments
+Let me know what you think below! Chat service is by Cactus Chat and is on the Matrix Protcol. It is all open source and private!
 {{< chat ios >}}

@@ -36,4 +36,7 @@ Get the api from the link provided and then paste it in click ```Save``` and you
 
 Search for your media and look for streams with RD at the front. These are provided from Real-Debrid. If one stream isn't quite right, try another!
 
+
+# Comments
+Let me know what you think below! Chat service is by Cactus Chat and is on the Matrix Protcol. It is all open source and private!
 {{< chat stremio >}}

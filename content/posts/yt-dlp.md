@@ -59,4 +59,7 @@ The following guide was written by [Krimsen](https://www.reddit.com/user/krimsen
 
 ```yt-dlp "https://www.youtube.com/watch?v=dQw4w9WgXcQ"```
 
+
+# Comments
+Let me know what you think below! Chat service is by Cactus Chat and is on the Matrix Protcol. It is all open source and private!
 {{< chat yt-dlp >}}
