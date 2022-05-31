@@ -5,7 +5,7 @@ draft: false
 categories: ["youtube","ios"]
 ---
 
-uYou+ is the IOS version of the popular Youtube Vanced for android (no longer maintained.) It offers all perks of YouTube Premium, for free. It also includes features such as SponsorBlock which skips video sponsors for you.
+uYou+ is the iOS version of the popular Youtube Vanced for android (no longer maintained.) It offers all perks of YouTube Premium, for free. It also includes features such as SponsorBlock which skips video sponsors for you.
 
 This installation guide is a re-formatted and simplified version of [the official guide here](https://github.com/qnblackcat/uYouPlus/wiki/Installation)
 
