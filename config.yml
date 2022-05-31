@@ -10,10 +10,11 @@ params:
               (everything here is stricly for educational purposes only. What you do with this information is up to you)"
     
   socialIcons:
-    - name: github
-      url: 'https://www.github.com/leafandJam'
     - name: reddit
       url: 'https://reddit.com/r/leafguides'
+    - name: github
+      url: 'https://www.github.com/leafandJam'
+
 
 
   ShowbreadCrumbs: true
