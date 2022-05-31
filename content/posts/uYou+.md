@@ -87,9 +87,9 @@ Congrats 🎉 You've just successfully configured AltStore.
 # Refresh uYou+
 Unfortunately, apps that have been installed using non-developer Apple IDs are only valid for 7 days, and uYouPlus is not an exception. At which point it will no longer open (you'll see an error that says "YouTube is no longer available").
 
-To compensate for this, AltStore will periodically attempt to refresh uYouPlus in the background. In order for AltStore to do that, you must connect your phone with your Mac/PC via cable or Wi-fi. Then click Refresh All in ```AltStore > My Apps```
+To compensate for this, AltStore will periodically attempt to refresh uYouPlus in the background. In order for AltStore to do that, you must connect your phone with your Mac/PC via cable or Wi-Fi. Then click Refresh All in ```AltStore > My Apps```
 
-To enable Refresh Apps over Wi-fi. Make sure your phone and your mac/PC are on the same network.
+To enable Refresh Apps over Wi-Fi. Make sure your phone and your mac/PC are on the same network.
     macOS: Open Finder and enable ```“Show this iPhone when on WiFi”``` for your phone.
     Windows: Open iTunes and enable ```iTunes Wi-Fi sync``` for your phone.
 
