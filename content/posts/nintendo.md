@@ -13,3 +13,5 @@ For CFW on Nintendo devices, thorough guides have been written and are regularly
 # 3DS CFW
 [3ds.hacks](https://3ds.hacks.guide/)
 
+{{< chat nintendo >}}
+
