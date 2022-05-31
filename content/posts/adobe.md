@@ -4,7 +4,7 @@ date: 2022-05-31T17:15:24+09:30
 draft: false
 categories: ["windows","adobe","macos"]
 ---
-Installing all adobe applications for free!
+Installing all Adobe applications for free!
 
 For this guide you will need:
 
