@@ -7,7 +7,7 @@ params:
   homeInfoParams:
     Title: "Welcome to Leaf Guides" 
     Content: "Here you will find lots of useful guides to installing all things for ~free
-              (everything here is stricly for educational purposes only. What you do with this information is up to you)"
+              (everything here is strictly for educational purposes only. What you do with this information is up to you)"
     
   socialIcons:
     - name: reddit
