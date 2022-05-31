@@ -12,9 +12,12 @@ A simple GUI version of yt-dlp is available [here](https://stacher.io/). The ins
 
 If you still want to use the command line version then read further!
 
-The following guide was written by [Krimsen](https://www.reddit.com/user/krimsen/) on reddit. It is the easiest and most fool-proof way to install Youtube-dlp. This is a cleaned up copy however the original guide can be found [here](https://www.reddit.com/r/youtubedl/comments/qzqzaz/can_someone_please_post_a_simple_guide_on_making/hlon6k5/).
+
 
 # How To Download & Install yt-dlp on Windows
+
+> The following guide was written by [Krimsen](https://www.reddit.com/user/krimsen/) on reddit. It is the easiest and most fool-proof way to install Youtube-dlp. This is a cleaned up copy however the original guide can be found [here](https://www.reddit.com/r/youtubedl/comments/qzqzaz/can_someone_please_post_a_simple_guide_on_making/hlon6k5/).
+
 1.    [Download yt-dlp for Windows](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe) ←← This link will point you directly to the latest yt-dlp.exe file.
 
 2.    Create ```c:\ytdl``` and put the file you downloaded from above in that directory. Just put it there. There is no installation. The EXE that you downloaded is the program itself.
