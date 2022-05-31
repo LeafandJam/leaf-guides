@@ -2,7 +2,7 @@
 title: "Windows 10/11"
 date: 2022-05-30T15:18:12+09:30
 draft: false
-categories: ["Windows"]
+categories: ["windows"]
 ---
 
 Windows 10/11 for free! Permanently activated using Microsoft Activation Scripts. An open source tool!

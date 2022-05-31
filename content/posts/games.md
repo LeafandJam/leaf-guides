@@ -2,7 +2,7 @@
 title: "Games"
 date: 2022-05-31T13:18:25+09:30
 draft: false
-categories: ["Windows","games"]
+categories: ["windows","games"]
 ---
 
 How to install games on Windows for free!

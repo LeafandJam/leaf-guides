@@ -2,7 +2,7 @@
 title: "yt-dlp"
 date: 2022-05-30T15:46:37+09:30
 draft: false
-categories: ["YouTube"]
+categories: ["youtube"]
 ---
 yt-dlp is an updated fork of yt-dl with many extra features. (yt-dl has become inactive)
 
