@@ -44,7 +44,7 @@ This will bring up the installation for your Adobe apps!
 # MacOS
 This method is for the M1 chip Macs. This is the easiest method I have tried.
 
-Go to [Cmacked](https://cmacked.com) and search for the desired adobe app. 
+Go to [Cmacked](https://cmacked.com) and search for the desired Adobe app. 
 
 Simply click download and download the .dmg. 
 
