@@ -89,7 +89,7 @@ Unfortunately, apps that have been installed using non-developer Apple IDs are o
 
 To compensate for this, AltStore will periodically attempt to refresh uYouPlus in the background. In order for AltStore to do that, you must connect your phone with your Mac/PC via cable or Wi-Fi. Then click Refresh All in ```AltStore > My Apps```
 
-To enable Refresh Apps over Wi-Fi. Make sure your phone and your mac/PC are on the same network.
+To enable Refresh Apps over Wi-Fi. Make sure your phone and your Mac/PC are on the same network.
     macOS: Open Finder and enable ```“Show this iPhone when on WiFi”``` for your phone.
     Windows: Open iTunes and enable ```iTunes Wi-Fi sync``` for your phone.
 
