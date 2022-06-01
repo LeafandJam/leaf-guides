@@ -113,7 +113,7 @@ This will bring up the installation for your Adobe apps!
 Finished.
 
 ## Filecr Method
-[This website](https://filecr.com/?s=Adobe) has pre actiavted copies of Adobe programs. Simply find the desired app and download the installer.
+[Filecr](https://filecr.com/?s=Adobe) has pre-activated copies of Adobe programs. Simply find the desired app and download the installer.
 
 The password for the zip file that is downlaoded is ```123```. To unzip this package you will need a package manaager such as [7zip](https://7-zip.org)
 
