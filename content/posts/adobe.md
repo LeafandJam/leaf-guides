@@ -16,7 +16,7 @@ __This method does not work for Lightroom CC/Clasic. Use the below guides for th
 
 1. Downloads Needed
 - [Creative Cloud (CC)](https://creativecloud.adobe.com/apps/all/desktop?action=install&source=apps&productId=creative-cloud)
-- (GenP)[https://www.mediafire.com/file/3lpsrxiz47mlhu2/Adobe-GenP-2.7.zip/file]
+- [Gen)](https://www.mediafire.com/file/3lpsrxiz47mlhu2/Adobe-GenP-2.7.zip/file)
 -[CCStopper - bypass credit card screen](https://github.com/eaaasun/CCStopper/releases/tag/v1.1.3)
 2. Download and Extract all GenP to a folder (using a file manager such as [7zip](https://7-zip.org))
 3. Download & Install Creative Cloud    
