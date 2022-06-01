@@ -42,5 +42,5 @@ For installing stremio on a firestick you can use [this guide](https://troypoint
 
 
 # Comments
-Let me know what you think below! Chat service is by Cactus Chat and is on the Matrix Protcol. It is all open source and private!
+Let me know what you think below!
 {{< chat stremio >}}
