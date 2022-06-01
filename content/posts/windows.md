@@ -15,7 +15,7 @@ Windows 10/11 for free! Permanently activated using Microsoft Activation Scripts
 # Step 2: Download MAS
 Download MAS from the [official github](https://github.com/massgravel/Microsoft-Activation-Scripts/releases) and extract the downloaded .7z file (right click it and click "extract here" using your package manager such as 7zip.
 
-It will then prompt for a password. This password is ```123```.
+It will then prompt for a password. This password is ```1234```.
 
 In the opened, extracted folder, open the folder named ```All-In-One-Version```.
 
