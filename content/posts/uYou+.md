@@ -94,7 +94,7 @@ To enable Refresh Apps over Wi-Fi. Make sure your phone and your Mac/PC are on t
     Windows: Open iTunes and enable ```iTunes Wi-Fi sync``` for your phone.
 
 # Comments
-Let me know what you think below! Chat service is by Cactus Chat and is on the Matrix Protcol. It is all open source and private!
+Let me know what you think below!
 {{< chat uYouPlus >}}
 
 

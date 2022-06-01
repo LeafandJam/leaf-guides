@@ -23,5 +23,5 @@ There are a few different sites to get the game files. The ones I mention are al
     
 
 # Comments
-Let me know what you think below! Chat service is by Cactus Chat and is on the Matrix Protcol. It is all open source and private!
+Let me know what you think below!
 {{< chat games >}}

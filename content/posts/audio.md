@@ -20,5 +20,5 @@ Unless you plan on sharing music then don't worry about opening the port. Skip p
 Simply search for the song you want and download it. You can filter by file size or file types as well.
 
 # Comments
-Let me know what you think below! Chat service is by Cactus Chat and is on the Matrix Protcol. It is all open source and private!
+Let me know what you think below!
 {{< chat audio >}}

@@ -30,6 +30,6 @@ To activate Windows, type ```1``` into the screen to run the activation.
 Done!
 
 # Comments
-Let me know what you think below! Chat service is by Cactus Chat and is on the Matrix Protcol. It is all open source and private!
+Let me know what you think below!
 {{< chat windows >}}
 
