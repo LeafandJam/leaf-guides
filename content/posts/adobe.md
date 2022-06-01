@@ -14,7 +14,7 @@ It's also recomended to have an adblock such as
 - [uBlock Origin](https://ublockorigin.com/)
 
 # ⊞ Windows
-This will be using the Monkrus method.
+## Monkrus method.
 
 A video guide is available [here](https://youtu.be/CC5E3uyedao). (I did not create this video guide)
 
@@ -41,7 +41,14 @@ Once finished torrenting, you will have an .iso file.
 
 Mount the file by double clicking it and run the file named ```autoplay```.
 
-This will bring up the installation for your Adobe apps!
+This will bring up the installation for your Adobe apps! 
+
+Finished.
+
+## Filecr Method
+[This website](https://filecr.com/?s=Adobe) has pre actiavted copies of Adobe programs. Simply find the desired app and download the installer.
+
+The password for the zip file that is downlaoded is ```123```. To unzip this package you will need a package manaager such as [7zip](https://7-zip.org)
 
 #  macOS
 This method is for the M1 chip Macs. This is the easiest method I have tried.
