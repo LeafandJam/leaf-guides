@@ -6,15 +6,16 @@ categories: ["windows","adobe","macos"]
 ---
 Installing all Adobe applications for free!
 
+
+
+# ⊞ Windows
+## Monkrus method.
 For this guide you will need:
 
 - [qbittorrent](https://qbittorrent.org)
 
 It's also recomended to have an adblock such as
 - [uBlock Origin](https://ublockorigin.com/)
-
-# ⊞ Windows
-## Monkrus method.
 
 A video guide is available [here](https://youtu.be/CC5E3uyedao). (I did not create this video guide)
 
@@ -29,11 +30,11 @@ Scroll down to the bottom where there is a list of links as shown below.
 
 ![links](/posts/monkrusLinks.png)
 
-Click one link such as the ```PB.WTF``` link and find the torrent button as shown below:
+Click one link such as the ```PB.WTF``` link and find the blue __"magnet"__ button as shown below:
 
 ![torrent](/posts/monkrusDownload.png)
 
-In this case it is the green one. 
+In this case it is the blue one. 
 
 Click it and complete the captcha if asked. If it doesn't suggest opening it qbittorrent automatically then download the .torrent and open it using qbittorrent. 
 
