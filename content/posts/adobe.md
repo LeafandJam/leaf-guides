@@ -19,9 +19,11 @@ This will be using the Monkrus method.
 A video guide is available [here](https://youtu.be/CC5E3uyedao). (I did not create this video guide)
 
 
-Go to this link for the [Adobe Master Collection](https://w14.monkrus.ws/2022/04/adobe-master-collection-2022-rus-eng-v7.html).
+Go to this link for the [Adobe Master Collection](https://w14.monkrus.ws/search?q=Adobe+Master+Collection+2022&max-results=20&by-date=true).
 
-This website is in Russian but you don't need to read anything.
+This website is in Russian but you don't need to read anything. To translate it simply look at the right and find the country flags. Chose your desired language.
+
+Click the top link to get Adobe Master Collection 2022 v8 (or new if new versions uploaded)
 
 Scroll down to the bottom where there is a list of links as shown below.
 
