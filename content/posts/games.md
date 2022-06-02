@@ -20,6 +20,22 @@ There are a few different sites to get the game files. The ones I mention are al
 
 3. CS Rin - Need help making a guide for this one!
     - [CS Rin](https://cs.rin.ru/forum/)
+
+4. 1337x
+    - [1337x](https://1337x.to) hosts many torrents for many things, games included. Here is a list of reputable game uploaders on 1337x created by [RekulousToad](https://www.reddit.com/user/RekulousToad/).
+    If you guys want a list of good game uploaders on 1337x, here is a list below:
+
+        - FitGirl (Repacks)
+        - DODI (Repacks)
+        - JohnCena141 (GNU/Linux Pre-Installed Games)
+        - KaOs / KaOsKrew (Repacks)
+        - Dilling
+        - Anadius (Repacks, most known for his Sims4 Repack, you should get that over any other sims4 download)
+        - Anybody from CS.RIN.RU (Includes some from this list such as Anadius, FitGirl, and EMPRESS)
+        - TinyRepacks (Repacks)
+        - 0xEmpress (Denuvo Game Cracks)
+        - s7on3r (Game and Crack Uploads)
+        - Mercs213 (Old owner of Good Old Downloads)
     
 
 # Comments
