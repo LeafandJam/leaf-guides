@@ -23,3 +23,7 @@ The best privacy respecting VPN which supports port forwarding for torrenting is
 The best anti-virus for Windows, is Windows Defender and common sense. Many anti-virus software just slows down your computer while not being necessary. With uBlock Origin acting as a filter and adblock, and some common sense, you won't find any problems.
 
 If you have a file which you want to open but suspect it for containing something malicous then you can upload it to [Virus Total](https://www.virustotal.com/gui/home/upload) which will scan it for you.
+
+# Comments
+Let me know what you think below!
+{{< chat tools >}}
