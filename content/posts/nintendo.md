@@ -21,6 +21,6 @@ For CFW on Nintendo devices, thorough guides have been written and are regularly
 
 
 # Comments
-Let me know what you think below! Chat service is by Cactus Chat and is on the Matrix Protcol. It is all open source and private!
+Let me know what you think below!
 {{< chat nintendo >}}
 
