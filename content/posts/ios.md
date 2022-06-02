@@ -4,6 +4,8 @@ date: 2022-05-18T16:59:30+09:30
 draft: false
 categories: ["ios"]
 ---
+# __THIS METHOD MAY NOT WORK ANYMORE__
+> Some users have reported that this method no longer works. I'll keep it up for those that are interested but until a new method is found, this one may not work.
 
 This method will get you paid apps and games for FREE. It works by signing you into an 'A ID' which has made purchases in the past. You simply download what you want and then log back into your 'A ID'.
 
