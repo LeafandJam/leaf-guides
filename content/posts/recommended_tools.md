@@ -15,8 +15,10 @@ These are just to get new comers started.
 For torrenting [qbittorrent](https://qbittorrent.org) is the most commonly recommended. It is open source and light weight.
 # VPN - [Mullvad](https://mullvad.net)
 The best privacy respecting VPN which supports port forwarding for torrenting is [Mullvad](https://mullvad.net).
-# Ad-block - [uBlock Origin](https://ublockorigin.com/)
+# Ad-block - [uBlock Origin](https://ublockorigin.com/) & [Fast Forward](https://fastforward.team/)
 [uBlock Origin](https://ublockorigin.com/) is the best ad-blocker out there. It also acts as a filter which is regularly updated.
+
+[Fast Forward](https://fastforward.team/) is a continuation of Universal Bypass, which skips link shorteners.
 # Torrent Sites - [1337x](https://1337x.to)
 [1337x](https://1337x.to) is a popular place for movies/tv and games as well as software. For a list of safe uploaders for games, check [this list](https://leafguides.xyz/posts/games).
 # Anti-Virus - Windows Defender + Common Sense
