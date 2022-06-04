@@ -10,6 +10,8 @@ params:
               (everything here is strictly for educational purposes only. What you do with this information is up to you)"
     
   socialIcons:
+    - name: discord
+      url: 'https://discord.gg/NJsDS5YF'
     - name: reddit
       url: 'https://reddit.com/r/leafguides'
     - name: github
