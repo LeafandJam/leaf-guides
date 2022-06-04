@@ -13,6 +13,8 @@ These are just to get new comers started.
 
 # Torrents - [qbittorrent](https://qbittorrent.org)
 For torrenting [qbittorrent](https://qbittorrent.org) is the most commonly recommended. It is open source and light weight.
+
+[Transmission](https://transmissionbt.com/) and [Deluge](https://deluge-torrent.org/) are other open source torrent clients that are recommended. 
 # VPN - [Mullvad](https://mullvad.net)
 The best privacy respecting VPN which supports port forwarding for torrenting is [Mullvad](https://mullvad.net).
 # Ad-block - [uBlock Origin](https://ublockorigin.com/) & [Fast Forward](https://fastforward.team/)
