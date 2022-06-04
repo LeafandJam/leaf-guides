@@ -19,6 +19,9 @@ An in depth guide is to come at some point.
 - [games.jits](http://games.jits.cc/). Make an account with google and copy wanted files to drive and download.
 - [nxBrew](https://nxbrew.com/). Search for wanted game and download!
 
+## Wii U
+- [USB Helper Launcher](https://github.com/FailedShack/USBHelperLauncher) to install games on Wii U.
+- [NPSBrowser](https://nopaystation.com/) lets you download PSP, PS Vita, PSX and PS3 games from the PlayStation servers.
 
 # Comments
 Let me know what you think below!
