@@ -20,7 +20,7 @@ An in depth guide is to come at some point.
 - [nxBrew](https://nxbrew.com/). Search for wanted game and download!
 
 ## Wii U
-- [USB Helper Launcher](https://github.com/FailedShack/USBHelperLauncher) to install games on Wii U.
+- [USB Helper Installer](https://github.com/FailedShack/USBHelperInstaller) to install games on Wii U.
 - [NPSBrowser](https://nopaystation.com/) lets you download PSP, PS Vita, PSX and PS3 games from the PlayStation servers.
 
 # Comments
