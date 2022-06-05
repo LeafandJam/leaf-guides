@@ -47,9 +47,9 @@ Download all Office 365 Microsoft apps for free!
 ## Activate The Office Apps
 1. Download [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/1.5).
 2. Extract the folder with [7zip](https://7-zip.org), the password is ```1234```.
-3. Open the folder ```All-In-One-Version``` and run the .cmd file
-4. Enter ```3``` for Office activation
-5. On the next page enter ```2``` for Office activation
+3. Open the folder ```All-In-One-Version``` and run the .cmd file.
+4. Enter ```3``` for Office activation.
+5. On the next page enter ```2``` for Office activation.
 6. Done! All Office apps are now activated!
 
 # Comments
