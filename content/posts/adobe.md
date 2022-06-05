@@ -12,13 +12,14 @@ Installing all Adobe applications for free!
 ## GenP Method
 > This guide is a cleaned up version of the great guide found [here](https://www.reddit.com/r/GenP/wiki/redditgenpguides) from the [r/GenP](https://reddit.com/r/genp) subreddit.
 
-__This method does not work for Lightroom CC/Clasic. Use the below guides for this app.__
+__This method does not work for Lightroom CC/Classic. Use the below guides for this app.__
 
 1. Downloads Needed
 - [Creative Cloud (CC)](https://creativecloud.adobe.com/apps/all/desktop?action=install&source=apps&productId=creative-cloud)
 - [GenP)](https://www.mediafire.com/file/3lpsrxiz47mlhu2/Adobe-GenP-2.7.zip/file)
 -[CCStopper - bypass credit card screen](https://github.com/eaaasun/CCStopper/releases/tag/v1.1.3)
 2. Download and Extract all GenP to a folder (using a file manager such as [7zip](https://7-zip.org))
+
 3. Download & Install Creative Cloud    
     - __DO NOT INSTALL "Genuine Software Detector"__
 4. Open Creative Cloud & Install Apps you want
