@@ -23,4 +23,11 @@ You will need [7zip](https://7-zip.org) or a similar file manager.
 5. Right click on the ```configuration-Office2021Enterprise``` file and open it with notepad or any text editor.
 
 6. Delete these lines:
+```
+<Product ID="VisioPro2021Volume">
+<Language ID="en-us"/>
+</Product>
+<Product ID="ProjectPro2021Volume">
+<Language ID="en-us"/>
+</Product>```
 
