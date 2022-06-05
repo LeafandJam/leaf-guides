@@ -10,7 +10,7 @@ Free music and FLAC files!
 # Nicotine+
 Get FLAC files for free using soulseek, a peer to peer music sharing platform.
 
-THis guide will use Nicotine+ as an open source gui for soulseek.
+This guide will use Nicotine+ as an open source GUI for soulseek.
 
 Head to the [download section](https://nicotine-plus.org/doc/DOWNLOADS.html) of Nicotine+ and find the correct download for your OS.
 
@@ -24,7 +24,7 @@ Simply search for the song you want and download it. You can filter by file size
 # tidal-dl and free trial
 This method uses [tidal-dl](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) to download music files straight from Tidal. 
 
-The tool requires a Tidal account however you can start a 30 day free trial (even fro the hifi account) and download as much as you like in the trail!
+The tool requires a Tidal account however you can start a 30 day free trial (even for the hifi account) and download as much as you like in the trial!
 
 # Comments
 Let me know what you think below!
