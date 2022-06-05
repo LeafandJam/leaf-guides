@@ -35,7 +35,7 @@ Download all Office 365 Microsoft apps for free!
 
 8. Right click inside the folder (with the ```setup``` and ```configuration-Office2021Enterprise```) and click "open a powershell window here. (In Windows 11 you may need to go to "more options" first.)
 
-9. In the powershell window paste this command in by right clicking:
+9. In the powershell window paste this command in by right clicking while having it copied:
 ``` .\setup.exe /configure .\configuration-Office2021Enterprise.xml ```
 
 10. Click enter.
