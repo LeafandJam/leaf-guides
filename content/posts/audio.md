@@ -7,6 +7,13 @@ categories: ["audio"]
 
 Free music and FLAC files!
 
+# Slider
+[Slider](https://slider.kz/) offers an easy search and download function.
+
+# Spotify-dl
+[Spotify-dl](https://github.com/SathyaBhat/spotify-dl) is similar to yt-dlp but allows you to download from spotify!
+
+
 # Nicotine+
 Get FLAC files for free using soulseek, a peer to peer music sharing platform.
 
