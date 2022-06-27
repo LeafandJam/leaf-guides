@@ -2,7 +2,7 @@
 title: "Ebooks"
 date: 2022-06-27T12:15:44+09:30
 draft: false
-categories: ["audio"]
+categories: ["ebooks"]
 ---
 
 > The following guide was written and submitted by *Anon*

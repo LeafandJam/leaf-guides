@@ -1,8 +1,8 @@
 ---
-title: "Audio"
+title: "Music"
 date: 2022-06-02T07:19:25+09:30
 draft: false
-categories: ["audio","ebooks"]
+categories: ["music"]
 ---
 
 Free music and FLAC files!
