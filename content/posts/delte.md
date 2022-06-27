@@ -1,9 +1,3 @@
----
-title: "eBooks"
-date: 2022-06-02T07:19:25+09:30
-draft: false
-categories: ["ebooks"]
----
 > The following guide was written and submitted by *Anon*
 
 # E-books guide
