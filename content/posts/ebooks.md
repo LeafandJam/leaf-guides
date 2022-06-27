@@ -66,3 +66,7 @@ Some users in there are memebers of private trackers and they can help you out.
 The best app to read books is Play Books, it's free and it's compatible with both iOS and Android.
 
 [Here is an official guide on how to upload these files to the Play Books app.](https://support.google.com/googleplay/answer/11012086?hl=en&co=GENIE.Platform%3DAndroid)
+
+# Comments
+Let me know what you think below!
+{{< chat ebook >}}
