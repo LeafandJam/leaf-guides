@@ -1,3 +1,10 @@
+---
+title: "Ebooks"
+date: 2022-06-27T12:15:44+09:30
+draft: false
+categories: ["audio"]
+---
+
 > The following guide was written and submitted by *Anon*
 
 # E-books guide
