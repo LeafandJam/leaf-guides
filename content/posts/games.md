@@ -36,7 +36,9 @@ There are a few different sites to get the game files. The ones I mention are al
         - 0xEmpress (Denuvo Game Cracks)
         - s7on3r (Game and Crack Uploads)
         - Mercs213 (Old owner of Good Old Downloads)
-    
+
+# Games Piracy Megathread
+[This reddit megathread](https://www.reddit.com/r/PiratedGames/comments/i2uun1/rpiratedgames_mega_thread/) has lots of useful links and tools for more games!
 
 # Comments
 Let me know what you think below!
