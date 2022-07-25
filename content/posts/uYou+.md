@@ -59,6 +59,7 @@ Done! Head to [Install uYou+](http://leafguides.xyz/posts/uyou+/#install-uyou)
 1. Install iTunes and iCloud
 2. Get AltStore for Windows from https://altstore.io/
     - Run AltInstaller.msi to setup AltServer
+    - Open iTunes, then enable "Wi-Fi sync" on your device
 
 3. Install AltStore to your phone
     - Plug your phone into your PC/Laptop.
