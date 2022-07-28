@@ -35,6 +35,9 @@ Now we need to enable Mail Plug-in: Simply open the Mail app and go to ```Mail >
 4. Install AltStore to your iDevice:
 
 - Plug your phone into your Mac. Make sure AltServer and the Mail app are running.
+- Enable "Wi-Fi sync" on your device.
+    - In macOS 10.14 Mojave or Earlier: Open iTunes, then enable “Sync with this iPhone/iPad over Wi-Fi” for your device.
+    - In macOS 10.15 Catalina or Later: Open Finder, then enable “Show this iPhone/iPad when on WiFi” for your device.
 - Click the AltServer icon in the Mac menu bar, click Install AltStore, then choose your phone.
 - Enter the Apple ID when AltStore asks you.
 The process might take a few minutes. You'll see AltStore on your Home Screen when it is done.
