@@ -13,24 +13,29 @@ Real Debrid is what costs money. It is cheaper than any streaming service while 
 
 ## Real Debrid
 
-Real Debrid is what is used to provide media.
+ Real Debrid is what is used to provide media.
 
-Go to [Real-Debrid](http://real-debrid.com/?id=7783244) and click ```Sign Up```. Make an account and then buy the service. 
+1. Go to [Real-Debrid](http://real-debrid.com/?id=7783244) and click ```Sign Up```. Make an account and then buy the service. 
 (This link includes my referral code which helps me out!)
 
 ## Stremio
 
 Stremio is the service used to display all the movies/TV and where you can have your library. It is the User-Interface.
 
-Download [Stremio](https://www.stremio.com/) for your device from Here and set it up by running the installer.
+2. Download [Stremio](https://www.stremio.com/) for your device from Here and set it up by running the installer.
 
-Make an account an then click the top left jigsaw icon to access Extensions. Search for the _"Torrentio"_ extension and click ```install```. Then click ```configure``` and a website should open up.
+3. Make an account an then click the top left jigsaw icon to access Extensions. 
+
+4. Search for the _"Torrentio"_ extension and click ```install```. 
+
+5. Then click ```configure``` and a website should open up.
 
 (If you can't find the extension then just go to _https://torrentio.strem.fun/configure_ and continue with the steps.)
 
 
-Don't worry about any of the fields except for Debrid Provider. Select ```Real-Debrid```.
-Get the api from the link provided and then paste it in click ```Save``` and you are done!
+6. Don't worry about any of the fields except for Debrid Provider. Select ```Real-Debrid```.
+7. Get the api from the link provided and then paste it in.
+8. click ```Save``` and you are done!
 
 ## Done
 
