@@ -12,24 +12,12 @@ There are a few different sites to get the game files. The ones I mention are al
 
 ## Direct Download
 
-1. Steamrip
-    - [steamrip](https://steamrip.com) has pre-installed games. Follow the steps below to donwload a game form Steamrip:
 
-    1. Search for your game in the top right corner of steamrip. Click to go to your game's page.
-    2. Click the purple DOWNLOAD HERE button.
-    3. Download the ```.rar``` file.
-    4. Download [7zip](https://7-zip.org) if you don't have it already. (Any file manager like winRAR will work).
-    5. Right click the ```.rar``` file and click ```7zip``` > ```Extract to...```
-    6. Open the newly created folder
-    7. Locate and enter the folder titled your game's name.
-    8. Find the ```.exe``` file and run it to start the game.
-    9. Done. If any issues occur, read the ```README.txt``` in the root of the folder.
-
-2.  GOG-Games
+1.  GOG-Games
     - [GOG-Games](https://gog-games.com/) come with a ```.exe``` to easily install the game.
     - GOG games have no DRM which means what you download here is exactly what you would get if you bought the real thing!
 
-3. CS Rin 
+2. CS Rin 
     - [CS Rin](https://cs.rin.ru/forum/)
 
 
