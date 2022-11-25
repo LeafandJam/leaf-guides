@@ -14,11 +14,12 @@ Windows 10/11 for free! Permanently activated using Microsoft Activation Scripts
 > From the [MAS Github page](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
 1. On Windows 10/11, right-click on the windows start menu and select PowerShell or Terminal.
-2. Copy-paste the below code and press enter
-    ```irm https://massgrave.dev/get | iex```
+2. Copy-paste the below code and press enter 
+- ```irm https://massgrave.dev/get | iex```
 
 ## Step 2: Activate Windows
-If you need a Windows pro key for MAS to activate then use this one: ```W269N-WFGWX-YVC9B-4J6C9-T83GX```
+If you need a Windows pro key for MAS to activate then use this one: 
+- ```W269N-WFGWX-YVC9B-4J6C9-T83GX```
 
 To activate Windows, type ```1``` into the screen to run the activation.
 
@@ -39,7 +40,8 @@ In the opened, extracted folder, open the folder named ```All-In-One-Version```.
 Run the file ```MAS_1.5_AIO_CRC32_21D20776.cmd``` (or a similar named file if the version is different).
 
 ## Step 3: Activate Windows
-If you need a Windows pro key for MAS to activate then use this one: ```W269N-WFGWX-YVC9B-4J6C9-T83GX```
+If you need a Windows pro key for MAS to activate then use this one: 
+- ```W269N-WFGWX-YVC9B-4J6C9-T83GX```
 
 
 To activate Windows, type ```1``` into the screen to run the activation.

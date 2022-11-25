@@ -26,6 +26,7 @@ params:
   ShowToc: true
   ShowCodeCopyButtons: true
   hideFooter: false
+  ShowCodeCopyButtons: true
 
   defaultTheme: dark
 
