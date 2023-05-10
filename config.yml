@@ -9,13 +9,6 @@ params:
     Content: "Here you will find lots of useful guides to installing all things for ~free.
               (Everything here is strictly for educational purposes only. What you do with this information is up to you. Never pirate anything. Always pay for things!)"
     
-  socialIcons:
-    - name: discord
-      url: 'https://discord.gg/tmEGQQmMf5'
-    - name: reddit
-      url: 'https://reddit.com/r/leafguides'
-    - name: github
-      url: 'https://www.github.com/leafandJam'
 
 
 
