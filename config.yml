@@ -1,4 +1,4 @@
-aseURL: "https://leaf-guides.vercel.app/"
+BaseURL: "https://leaf-guides.vercel.app/"
 languageCode: en-us
 title: Leaf Guides
 theme: PaperMod
