@@ -11,7 +11,7 @@ params:
     
 
 
-
+  ignoreErrors: ["error-remote-getjson"]  #yml or ignoreErrors = ["error-remote-getjson"]  #toml 
   ShowbreadCrumbs: true
   ShowReadingTime: true
   ShowPostNavLinks: false
