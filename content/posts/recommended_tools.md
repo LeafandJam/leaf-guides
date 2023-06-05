@@ -22,7 +22,7 @@ The best privacy respecting VPN which supports port forwarding for torrenting is
 
 [Fast Forward](https://fastforward.team/) is a continuation of Universal Bypass, which skips link shorteners.
 # Torrent Sites - [1337x](https://1337x.to)
-[1337x](https://1337x.to) is a popular place for movies/tv and games as well as software. For a list of safe uploaders for games, check [this list](https://leafguides.xyz/posts/games).
+[1337x](https://1337x.to) is a popular place for movies/tv and games as well as software. For a list of safe uploaders for games, check [this list](https://leafguides.netlify.app/posts/games).
 # Anti-Virus - Windows Defender + Common Sense
 The best anti-virus for Windows, is Windows Defender and common sense. Many anti-virus software just slows down your computer while not being necessary. With uBlock Origin acting as a filter and adblock, and some common sense, you won't find any problems.
 

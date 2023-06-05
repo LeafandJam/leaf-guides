@@ -21,6 +21,8 @@ An in depth guide is to come at some point.
 
 ## Wii U
 - [USB Helper Installer](https://github.com/FailedShack/USBHelperInstaller) to install games on Wii U.
+
+## PS
 - [NPSBrowser](https://nopaystation.com/) lets you download PSP, PS Vita, PSX and PS3 games from the PlayStation servers.
 
 # Comments
