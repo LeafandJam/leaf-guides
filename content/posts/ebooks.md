@@ -13,7 +13,7 @@ This guide will teach you how to get most e-books for free and how to read them 
 
 ## Preparation
 
-- Using an adblock browser or extension is recommended.
+- Using an adblocking browser or extension is recommended. (uBlcok Origin is the best choice for extension)
 
 ## Downloading
 
@@ -24,8 +24,9 @@ Tip: I recommend that you look for "epubs" files since sometimes PDF rips will b
 ### via websites
 
 The best websites are:
-http://libgen.rs/fiction/
-https://z-lib.org/
+- https://annas-archive.org/
+- http://libgen.rs/fiction/
+- https://z-lib.org/
 
 There are [many other sources here as well.](https://www.reddit.com/r/Piracy/comments/oreyow/heres_the_definitive_list_of_sites_for_ebooks_and/)
 
