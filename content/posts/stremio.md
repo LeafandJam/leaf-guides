@@ -7,9 +7,8 @@ weight: 1
 ---
 
 
-The ultimate streaming solution. You get EVERYTHING that's ever been torrented, up to 4k, for ~$4 a month.
 
-Real Debrid is what costs money. It is cheaper than any streaming service while also giving you access to everything! It is ideal as you don't need a vpn unlike with torrenting. It torrents movies for you and puts them on their servers which is where you stream from. This allows super fast streaming without torrent activity on your end!
+Real Debrid is what costs money. No VPN is needed to use RD as it is all through DDL. It torrents movies for you and puts them on their servers which is where you stream them from. This allows super fast streaming without torrent activity on your end.
 
 
 ## Real Debrid
@@ -17,7 +16,6 @@ Real Debrid is what costs money. It is cheaper than any streaming service while 
  Real Debrid is what is used to provide media.
 
 1. Go to [Real-Debrid](http://real-debrid.com/?id=7783244) and click ```Sign Up```. Make an account and then buy the service. 
-(This link includes my referral code which helps me out! If you don't want to then you can use [this one](https://real-debrid.com/))
 
 ## Stremio
 
@@ -40,7 +38,7 @@ Stremio is the service used to display all the movies/TV and where you can have 
 
 ## Done
 
-Search for your media and look for streams with RD at the front. These are provided from Real-Debrid. If one stream isn't quite right, try another!
+Search for your media and look for streams with ```[RD]``` at the front. These are provided from Real-Debrid. If one doesn't work, try another. You can see the quality and file size of the streams too.
 
 > Note: Make sure you're clicking on the actual movie/tv you want to watch for it to load the streaming options
 
@@ -48,7 +46,3 @@ Search for your media and look for streams with RD at the front. These are provi
 For installing stremio on a firestick you can use [this guide](https://troypoint.com/stremio/).
 
 
-
-# Comments
-Let me know what you think below!
-{{< chat stremio >}}
