@@ -28,11 +28,10 @@ The best websites are:
 - http://libgen.rs/fiction/
 - https://z-lib.org/
 
-There are [many other sources here as well.](https://www.reddit.com/r/Piracy/comments/oreyow/heres_the_definitive_list_of_sites_for_ebooks_and/)
 
 ### via google search
 
-If you were unable to it on the websites above, you can try the following.
+If you were unable to find it on the websites above, you can try the following.
 
 This is particular helpful if you're looking for a book in a language that is not english.
 
@@ -69,6 +68,3 @@ The best app to read books is Play Books, it's free and it's compatible with bot
 
 [Here is an official guide on how to upload these files to the Play Books app.](https://support.google.com/googleplay/answer/11012086?hl=en&co=GENIE.Platform%3DAndroid)
 
-# Comments
-Let me know what you think below!
-{{< chat ebook >}}
