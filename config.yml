@@ -7,9 +7,9 @@ params:
   homeInfoParams:
     Title: "Welcome to Leaf Guides" 
     Content: """Here you will find lots of useful guides to installing all things for ~free.
-              (Everything here is strictly for educational purposes only.)
+              \n (Everything here is for educational purposes only.)
               
-              ~I have not updated these guides in a while, many are outdated."""
+              \n\n ~I have not updated these guides in a while, many are outdated."""
     
 
 
