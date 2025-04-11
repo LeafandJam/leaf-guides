@@ -5,7 +5,7 @@ theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: "Welcome to Leaf Guide" 
+    Title: "Welcome to Leaf Guides" 
     Content: """Here you will find lots of useful guides to installing all things for ~free.
               \n (Everything here is for educational purposes only.)
               
