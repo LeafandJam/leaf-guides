@@ -1,6 +1,6 @@
 BaseURL: "https://leafguides.netlify.app/"
 languageCode: en-us
-title: Leaf.Guide
+title: Leaf Guides
 theme: PaperMod
 
 params:
