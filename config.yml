@@ -5,7 +5,11 @@ theme: PaperMod
 
 params:
   homeInfoParams:
+<<<<<<< HEAD
     Title: "Welcome to Leaf Guides" 
+=======
+    Title: "Welcome to Leaf.Guide" 
+>>>>>>> parent of 597badc (Update config.yml)
     Content: """Here you will find lots of useful guides to installing all things for ~free.
               \n (Everything here is for educational purposes only.)
               
