@@ -1,11 +1,11 @@
 BaseURL: "https://leafguides.netlify.app/"
 languageCode: en-us
-title: Leaf Guides
+title: Leaf.Guide
 theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: "Welcome to Leaf Guides" 
+    Title: "Welcome to Leaf.Guide" 
     Content: """Here you will find lots of useful guides to installing all things for ~free.
               \n (Everything here is for educational purposes only.)
               
