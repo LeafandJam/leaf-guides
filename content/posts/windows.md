@@ -46,9 +46,4 @@ If you need a Windows pro key for MAS to activate then use this one:
 
 To activate Windows, type ```1``` into the screen to run the activation.
 
-Done!
-
-## Comments
-Let me know what you think below!
-{{< chat windows >}}
-
+Complete.

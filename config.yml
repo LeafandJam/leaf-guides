@@ -12,6 +12,7 @@ params:
       (Everything here is for educational purposes only.)  
 
 
+
       ~I have not updated these guides in a while, many are outdated.
 
 
@@ -19,7 +20,7 @@ params:
   ShowbreadCrumbs: true
   ShowReadingTime: true
   ShowPostNavLinks: false
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowToc: true
   ShowCodeCopyButtons: true
   hideFooter: false
