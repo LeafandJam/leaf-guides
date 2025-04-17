@@ -31,6 +31,8 @@ Handy potential malicious file scanner
 - [Kiwi Burner](https://burner.kiwi/): Temp email addresses
 ### Music
 - [Lucida](https://lucida.to/): Great resource for FLAC and all music
+### Microsoft
+- [MassGrave](https://massgrave.dev/): Great resource for Microsoft acitivation scripts
 
 ### Books
 - [Anna's Archive](https://annas-archive.org): Great resource for books
