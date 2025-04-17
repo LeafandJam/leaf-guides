@@ -21,7 +21,7 @@ Real Debrid costs money but it is inexpensive and allows for much faster streami
 
 Stremio is the service used to display all the movies/TV and where you can have your library. It is the User-Interface.
 
-2. Download [Stremio](https://www.stremio.com/) for your device from Here and set it up by running the installer.
+2. Download [Stremio](https://www.stremio.com/) for your device and set it up by running the installer.
 
 3. Once installed, visit this link to install torrentio: 
 ```https://torrentio.strem.fun/configure```
