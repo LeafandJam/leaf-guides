@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>windows on Leaf.Guide</title>
-    <link>https://leaf.guide/categories/windows/</link>
+    <link>https://leaf.guides/categories/windows/</link>
     <description>Recent content in windows on Leaf.Guide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 May 2022 15:18:12 +0930</lastBuildDate><atom:link href="https://leaf.guide/categories/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 May 2022 15:18:12 +0930</lastBuildDate><atom:link href="https://leaf.guides/categories/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Windows 10/11</title>
-      <link>https://leaf.guide/posts/windows/</link>
+      <link>https://leaf.guides/posts/windows/</link>
       <pubDate>Mon, 30 May 2022 15:18:12 +0930</pubDate>
       
-      <guid>https://leaf.guide/posts/windows/</guid>
+      <guid>https://leaf.guides/posts/windows/</guid>
       <description>Windows 10/11 for free! Permanently activated using Microsoft Activation Scripts. An open source tool!
 (This will also remove the annoying &amp;ldquo;activate windows&amp;rdquo; watermark if you have that)
 Option 1 (easiest) Step 1: Open MAS From the MAS Github page
