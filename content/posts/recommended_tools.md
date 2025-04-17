@@ -1,30 +1,42 @@
 ---
-title: "Recomended Tools"
+title: "Tools and Websites"
 date: 2022-05-30T15:18:12+09:30
 draft: false
 categories: ["tools"]
 ---
 
-This guide will _only list basic tools_ which are _commonly needed_ for sailing the seas.
+## Some useful tools and websites. 
+  
 
-There are [much bigger lists](https://FMHY.net) out there for useful tools however this guide will not list every single useful tool in order to keep it simple and easy to read. This keeps it from being overwhelming and confusing for new users.
+### Torrents
+- [qbittorrent](https://qbittorrent.org): The best and most commonly recommended. It is open source and light weight
 
+- [Transmission](https://transmissionbt.com/) and [Deluge](https://deluge-torrent.org/) are other open source torrent clients that are recommended 
 
-# Torrents - [qbittorrent](https://qbittorrent.org)
-For torrenting [qbittorrent](https://qbittorrent.org) is the most commonly recommended. It is open source and light weight.
+### VPN
+- [Mullvad](https://mullvad.net): The best privacy respecting VPN however it does not support port forwarding
 
-[Transmission](https://transmissionbt.com/) and [Deluge](https://deluge-torrent.org/) are other open source torrent clients that are recommended. 
+### Browser Extensions 
+- [uBlock Origin](https://ublockorigin.com/): The best ad-blocker out there. It also acts as a filter which is regularly updated
+- [Bitwarden](https://bitwarden.com): Good open source password manager
+- [Sponsor Block](https://sponsor.ajay.app/): Skips sponsor segments in YouTube videos
+### Email
+[Addy.io](https://addy.io/): Great free and open source email alias service. Can be connected with [Bitwarden](https://bitwarden.com)
+### Websites 
+- [Virus Total](https://www.virustotal.com/gui/home/upload):
+Handy potential malicious file scanner
+- [FMHY](https://fmhy.net): Huge list of useful tools and websites
+### Temp Mail
+- [Smailpro](https://smailpro.com/temporary-email): Temp gmail addresses
+- [Kiwi Burner](https://burner.kiwi/): Temp email addresses
+### Music
+[Lucida](https://lucida.to/): Great resource for FLAC and all music
 
-# VPN - [Mullvad](https://mullvad.net)
-The best privacy respecting VPN is [Mullvad](https://mullvad.net), however it does not support port forwarding.
+### Books
+- [Anna's Archive](https://annas-archive.org): Great resource for books
+- [Z-Lib](https://z-lib.gd/): Good resource for books
 
-# Ad-block - [uBlock Origin](https://ublockorigin.com/)[uBlock Origin](https://ublockorigin.com/) 
-is the best ad-blocker out there. It also acts as a filter which is regularly updated.
-
-[Fast Forward](https://fastforward.team/) is a continuation of Universal Bypass, which skips link shorteners.
-
-
-# Anti-Virus [Virus Total](https://www.virustotal.com/gui/home/upload)
-If you have a file which you want to open but suspect it for containing something malicous then you can upload it to [Virus Total](https://www.virustotal.com/gui/home/upload) which will scan it for you.
-
-
+### Switch
+- [NXBrew](https://nxbrew.net/): Great resource for Switch games
+- [Darthsternie](https://darthsternie.net/switch-firmwares/): Great resource for Switch firmware
+- [Switch Way](Switchway.net): Great resource of guides for Switch modding

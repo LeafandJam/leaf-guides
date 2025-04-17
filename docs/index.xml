@@ -18,17 +18,6 @@ Real Debrid costs money but it is inexpensive and allows for much faster streami
     </item>
     
     <item>
-      <title>Recomended Tools</title>
-      <link>https://leaf.guide/posts/recommended_tools/</link>
-      <pubDate>Mon, 30 May 2022 15:18:12 +0930</pubDate>
-      
-      <guid>https://leaf.guide/posts/recommended_tools/</guid>
-      <description>This guide will only list basic tools which are commonly needed for sailing the seas.
-There are much bigger lists out there for useful tools however this guide will not list every single useful tool in order to keep it simple and easy to read. This keeps it from being overwhelming and confusing for new users.
-Torrents - qbittorrent For torrenting qbittorrent is the most commonly recommended. It is open source and light weight.</description>
-    </item>
-    
-    <item>
       <title>Windows 11</title>
       <link>https://leaf.guide/posts/windows/</link>
       <pubDate>Mon, 30 May 2022 15:18:12 +0930</pubDate>
@@ -38,6 +27,17 @@ Torrents - qbittorrent For torrenting qbittorrent is the most commonly recommend
 You will need an empty USB with at least 8gb of storage
 Step 1: Making a bootable USB Download the Windows 11 IoT Enterprise LTSC .iso from MassGrave The IoT Enterprise LTSC is a version of Windows that doesn&amp;rsquo;t include any bloatware and has far fewer updates by only giving the needed security ones.
 Download and run Balena Etcher Select the Windows .</description>
+    </item>
+    
+    <item>
+      <title>Tools and Websites</title>
+      <link>https://leaf.guide/posts/recommended_tools/</link>
+      <pubDate>Mon, 30 May 2022 15:18:12 +0930</pubDate>
+      
+      <guid>https://leaf.guide/posts/recommended_tools/</guid>
+      <description>Some useful tools and websites. Torrents qbittorrent: The best and most commonly recommended. It is open source and light weight
+Transmission and Deluge are other open source torrent clients that are recommended
+VPN Mullvad: The best privacy respecting VPN however it does not support port forwarding Browser Extensions uBlock Origin: The best ad-blocker out there. It also acts as a filter which is regularly updated Bitwarden: Good open source password manager Sponsor Block: Skips sponsor segments in YouTube videos Email Addy.</description>
     </item>
     
     
