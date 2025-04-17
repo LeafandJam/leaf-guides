@@ -1,4 +1,4 @@
-BaseURL: "https://leaf.guide/"
+BaseURL: "https://leaf.guides/"
 languageCode: en-us
 title: Leaf.Guide
 theme: PaperMod
@@ -7,13 +7,11 @@ params:
   homeInfoParams:
     Title: "Welcome to Leaf.Guide"
     Content: |
-      Here you will find lots of useful guides to installing all things for ~free. 
-
+      A collection of easy to follow guides I write. 
+ 
       (Everything here is for educational purposes only.)  
 
 
-
-      ~I have not updated these guides in a while, many are outdated.
 
 
 
