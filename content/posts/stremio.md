@@ -31,7 +31,7 @@ Stremio is the service used to display all the movies/TV and where you can have 
 6. Copy the api from the [link provided](https://real-debrid.com/apitoken) and then paste it in the empty box on the torrentio page.
 7. click ```Install```
 
-# Complete
+### Complete
 
 Search for your media and look for streams with ```[RD]``` at the front. These are provided from Real-Debrid. If one doesn't work, try another. You can see the quality and file size of the streams too.
 
