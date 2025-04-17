@@ -14,7 +14,7 @@ params:
 
 
 
-
+  buildFuture: true
   ShowbreadCrumbs: true
   ShowReadingTime: true
   ShowPostNavLinks: false
