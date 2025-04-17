@@ -6,7 +6,7 @@ theme: PaperMod
 params:
   homeInfoParams:
     Title: "Welcome to Leaf.Guide"
-    Content: >
+    Content: |
       A collection of easy to follow guides I write. 
  
       (Everything here is for educational purposes only.)  
