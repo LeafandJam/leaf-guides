@@ -1,6 +1,6 @@
 ---
 title: "Sideloading"
-date: 2025-04-18T08:25:02+09:30
+date: 2023-11-18T08:25:02+09:30
 draft: false
 categories: ["ios"]
 ---
