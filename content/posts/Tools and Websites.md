@@ -30,7 +30,7 @@ Handy potential malicious file scanner
 - [Smailpro](https://smailpro.com/temporary-email): Temp gmail addresses
 - [Kiwi Burner](https://burner.kiwi/): Temp email addresses
 ### Music
-[Lucida](https://lucida.to/): Great resource for FLAC and all music
+- [Lucida](https://lucida.to/): Great resource for FLAC and all music
 
 ### Books
 - [Anna's Archive](https://annas-archive.org): Great resource for books
