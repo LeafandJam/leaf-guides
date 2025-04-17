@@ -23,7 +23,7 @@ params:
   ShowCodeCopyButtons: true
   hideFooter: false
   ShowCodeCopyButtons: true
-
+  enableEmoji: true
   defaultTheme: dark
 
 
