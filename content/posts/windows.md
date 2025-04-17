@@ -4,6 +4,7 @@ date: 2022-05-30T15:18:12+09:30
 draft: false
 categories: ["windows"]
 weight: 2
+enableEmoji: true
 ---
 
 Installing Windows IoT Enterprise LTS version from a USB.
@@ -15,7 +16,7 @@ Installing Windows IoT Enterprise LTS version from a USB.
 2. Download and run [Balena Etcher](https://etcher.balena.io/)
 3. Select the Windows ```.iso``` file for the image
 4. Select your USB for the drive
-- !The next step will format your USB deleting everything on it.!
+- :warning: The next step will format your USB deleting everything on it. :warning:
 5. Click flash
 
 ## Step 2: Booting the USB
