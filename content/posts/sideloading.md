@@ -19,7 +19,8 @@ Below are two shops that have so far been legitimate:
 - [Kravasign](https://kravasign.com/purchase) (recommended)
 - [DX Sign](https://dxsign.cc/purchase) (cheaper)
 
->Both are recommended however, go with Kravasign if you can, as they include revoke protection in their cheapest tier. Revoke protection means that if your certificate stops working, they'll replace it — though this is extremely rare."
+>Both are recommended however, go with Kravasign if you can, as they include revoke protection in their cheapest tier. 
+>>Revoke protection means that if your certificate stops working, they'll replace it — though this is extremely rare.
 
 After purchasing the cert you'll need to join their discord server to download your files. It can take up to 3 days for your cert to be ready (this is an Apple limitation).
 
