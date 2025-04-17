@@ -5,7 +5,7 @@ theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: "Welcome to Leaf.Guide"
+    Title: "Welcome to Leaf.Guide 🌿"
     Content: |
       A collection of easy to follow guides.  
 
