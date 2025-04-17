@@ -1,6 +1,6 @@
 ---
 title: "Recommended Tools"
-date: 2025-12-04T15:00:58+09:30
+da te: 2025-12-04T15:00:58+09:30
 draft: false
 categories: ["tools"]
 ---

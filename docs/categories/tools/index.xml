@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tools on Leaf.Guide</title>
+    <link>https://leaf.guide/categories/tools/</link>
+    <description>Recent content in tools on Leaf.Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://leaf.guide/categories/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recommended Tools</title>
+      <link>https://leaf.guide/posts/recommended_tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://leaf.guide/posts/recommended_tools/</guid>
+      <description>This guide will only list basic tools which are commonly needed for sailing the seas.
+There are much bigger lists out there for useful tools however this guide will not list every single useful tool in order to keep it simple and easy to read. This keeps it from being overwhelming and confusing for new users.
+Torrents - qbittorrent For torrenting qbittorrent is the most commonly recommended. It is open source and light weight.</description>
+    </item>
+    
+  </channel>
+</rss>
