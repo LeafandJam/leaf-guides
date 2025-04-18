@@ -1,6 +1,6 @@
 ---
 title: "Stremio + Real-Debrid"
-date: 2025-04-18
+date: 2025-04-17
 draft: false
 categories: ["movie/tv"]
 weight: 1

@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Leaf.Guide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Nov 2023 08:25:02 +0930</lastBuildDate><atom:link href="https://leaf.guide/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://leaf.guide/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stremio &#43; Real-Debrid</title>
+      <link>https://leaf.guide/posts/stremio/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://leaf.guide/posts/stremio/</guid>
+      <description>Stremio is an app that when paired with Real-Debrid, allows you to stream almost any movie or tv show in high quality.
+Real Debrid costs money but it is inexpensive and allows for much faster streaming speeds as aposed to streaming torrents. No VPN is needed to use RD as it is all through DDL.
+It torrents movies for you and puts them on their servers which is where you stream them from.</description>
+    </item>
+    
     <item>
       <title>Windows 11</title>
       <link>https://leaf.guide/posts/windows/</link>
