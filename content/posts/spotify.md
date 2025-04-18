@@ -30,7 +30,7 @@ for free by using their free trial (no credit card needed).
 > Remember your login details as this will be your new account
 4. [Redeem your gift card](https://www.spotify.com/redeem/)
 >If Spotify asks for a place in India, put any place. If one doesn't work try another.
-5. This will successfully activate Spotify Premium on your the account
+5. This will successfully activate Spotify Premium on the account
 
 ## Transfer Music From Old Account
 1. Visit [Aknakn](https://trikatuka.aknakn.eu/#/)
