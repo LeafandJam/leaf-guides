@@ -13,13 +13,13 @@ This guide is for a very cheap, __legitimate__, 12 month premium Spotify plan.
 By buying a 12 month Spotify premium gift card from India and activating it on an account costs ~$20 USD/year which would be equal to ~$1.6 USD/month.
 
 
-A new account has to be made but there is an [easy way](https://leaf.guide/posts/spotify/#Transfer-Music-From-Old-Account) to transfer all music and playlists over.
+A new account has to be made but there is an [easy way](https://leaf.guide/posts/spotify/#transfer-music-from-old-account) to transfer all music and playlists over.
 
 ## Buy The Gift Card
 1. Visit [g2a](https://www.g2a.com/) on their webiste or by their app and search for "_Spotify 12 month Gift Card"_
 >Ensure the item you are buying is the gift card and not for an account.
 2. Buy the giftcard. A code will be sent to the email that was used
-3. Proceed to [Make An Account](https://leaf.guide/posts/spotify/#Make-An-Account)
+3. Proceed to [Make An Account](https://leaf.guide/posts/spotify/#make-an-account)
 
 ## Make An Account
 > If you have a VPN already you can skip Step 1. If you're looking to start using one, [Mullvad](https://mullvad.net) is recommended.
