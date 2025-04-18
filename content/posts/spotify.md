@@ -22,6 +22,7 @@ A new account has to be made but there is an [easy way](https://leaf.guide/posts
 3. Proceed to [Make An Account](https://leaf.guide/posts/spotify/#Make-An-Account)
 
 ## Make An Account
+> If you have a VPN already you can skip Step 1. If you're looking to start using one, [Mullvad](https://mullvad.net) is recommended.
 1. Download [CyberGhost VPN](https://www.cyberghostvpn.com/vpn-free-trial)
 for free by using their free trial (no credit card needed).
 2. Set VPN to India
