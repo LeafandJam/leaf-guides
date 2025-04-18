@@ -1,6 +1,6 @@
 ---
 title: "Windows 11"
-date: 2022-05-30T15:18:12+09:30
+date: 2025-04-17
 draft: false
 categories: ["windows"]
 weight: 2

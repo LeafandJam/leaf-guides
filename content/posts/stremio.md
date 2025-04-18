@@ -26,7 +26,7 @@ Stremio is the service used to display all the movies/TV and where you can have 
 2. Download [Stremio](https://www.stremio.com/) for your device and set it up by running the installer.
 
 3. Once installed, visit this link to install torrentio: 
-[```https://torrentio.strem.fun/configure```](https://torrentio.strem.fun/configure`)
+[```https://torrentio.strem.fun/configure```](https://torrentio.strem.fun/configure)
 
 4. Don't worry about any of the fields except for _Debrid Provider_. Select ```Real-Debrid```
 5. Find the box titled _RealDebrid API Key_
