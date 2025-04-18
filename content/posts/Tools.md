@@ -21,14 +21,14 @@ categories: ["tools"]
 - [Bitwarden](https://bitwarden.com): Good open source password manager
 - [Sponsor Block](https://sponsor.ajay.app/): Skips sponsor segments in YouTube videos
 ### Email
-[Addy.io](https://addy.io/): Great free and open source email alias service. Can be connected with [Bitwarden](https://bitwarden.com)
+- [Addy.io](https://addy.io/): Great free and open source email alias service. Can be connected with [Bitwarden](https://bitwarden.com)
+- [Smailpro](https://smailpro.com/temporary-email): Temp gmail addresses
+- [Kiwi Burner](https://burner.kiwi/): Temp email addresses
 ### Websites 
 - [Virus Total](https://www.virustotal.com/gui/home/upload):
 Handy potential malicious file scanner
 - [FMHY](https://fmhy.net): Huge list of useful tools and websites
-### Temp Mail
-- [Smailpro](https://smailpro.com/temporary-email): Temp gmail addresses
-- [Kiwi Burner](https://burner.kiwi/): Temp email addresses
+- [Spotify Transfer](https://trikatuka.aknakn.eu/#/): Transfer Spotify playlists accross accounts
 ### Music
 - [Lucida](https://lucida.to/): Great resource for FLAC and all music
 ### Microsoft
