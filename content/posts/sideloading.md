@@ -3,6 +3,7 @@ title: "Sideloading"
 date: 2025-04-17
 draft: false
 categories: ["ios"]
+weight: 2
 ---
 
 # Sideloading

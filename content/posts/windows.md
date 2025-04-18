@@ -3,7 +3,6 @@ title: "Windows 11"
 date: 2025-04-17
 draft: false
 categories: ["windows"]
-weight: 2
 enableEmoji: true
 ---
 
