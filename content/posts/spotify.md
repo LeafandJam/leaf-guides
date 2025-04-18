@@ -18,7 +18,7 @@ A new account has to be made but there is an [easy way](https://leaf.guide/posts
 ## Buy The Gift Card
 1. Visit [g2a](https://www.g2a.com/) on their webiste or by their app and search for "_Spotify 12 month Gift Card"_
 >Ensure the item you are buying is the gift card and not for an account.
-2. Buy the giftcard a code will be sent to the email that was used
+2. Buy the giftcard. A code will be sent to the email that was used
 3. Proceed to [Make An Account](https://leaf.guide/posts/spotify/#Make-An-Account)
 
 ## Make An Account
