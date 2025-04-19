@@ -15,23 +15,21 @@ It torrents movies for you and puts them on their servers which is where you str
 
 ## Real Debrid
 
- Real Debrid is what is used to provide media.
+ >Real Debrid is what is used to provide media to torrentio in Stremio.
 
-1. Go to [Real-Debrid](http://real-debrid.com/?id=7783244) and click ```Sign Up```. Make an account and then buy the service. 
+1. Go to [Real-Debrid](http://real-debrid.com/?id=7783244) 
+2. Make an account and buy the service. 
 
 ## Stremio
+1. Download [Stremio](https://www.stremio.com/) for your device and set it up by running the installer.
 
-Stremio is the service used to display all the movies/TV and where you can have your library. It is the User-Interface.
-
-2. Download [Stremio](https://www.stremio.com/) for your device and set it up by running the installer.
-
-3. Once installed, visit this link to install torrentio: 
+2. Once installed, visit this link to install torrentio: 
 [```https://torrentio.strem.fun/configure```](https://torrentio.strem.fun/configure)
 
-4. Don't worry about any of the fields except for _Debrid Provider_. Select ```Real-Debrid```
-5. Find the box titled _RealDebrid API Key_
-6. Copy the api from the [link provided](https://real-debrid.com/apitoken) and then paste it in the empty box on the torrentio page.
-7. click ```Install```
+3. Don't worry about any of the fields except for _Debrid Provider_. Select ```Real-Debrid```
+4. Find the box titled _RealDebrid API Key_
+5. Copy the Real-Debrid api from the [link provided](https://real-debrid.com/apitoken) and then paste it in the empty box on the torrentio page.
+6. click _Install_
 
 ### Complete
 
